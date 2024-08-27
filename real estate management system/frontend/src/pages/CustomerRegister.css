@@ -1,0 +1,11 @@
+.container{
+    /* background-color: #E3DFFD !important; */
+}
+.submit{
+    background-color: #EA047E !important;
+}
+/* In your CSS file */
+input {
+    text-transform: none; /* This will prevent any text transformation */
+  }
+  
